@@ -4,7 +4,11 @@
 <img src="img/rpgmaker.jpg">
 
 <p>
-    Placeholder Text
+    <h3>News</h3>
+    <p>
+    <em>May 9th, 2018</em>
+        Second Revision of the World Map has begun. Close to finishing the layout. I will most likely start on the database for the game this weekend. Will work on a Vue Website for the whole Trilogy.
+    </p>
 </p>
 
 <h3>Project Timeline</h3>
