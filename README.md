@@ -10,7 +10,7 @@
     <li>
     <em>May 17th, 2018</em>
     <p>
-    Going on a mini vacation starting next week and will probably start on full-production in Mid-June. Will upgrade to a new workstation this summer. I will put in probably about 5-10 hours a week on the game starting then. Winter 2018 will probably end up being Spring/Summer 2019 if I wanna get the game right.
+    Going on a mini vacation starting next week and will probably start on full-production in Mid-June. Will upgrade to a new workstation this summer. I will put in probably about 5-10 hours a week on the game starting then. Winter 2018 will probably end up being Spring/Summer 2019 if I wanna get the game right. I will open up a personal tech blog soon as well. 
     </p>
     </li>
     <li><em>May 9th, 2018</em>
