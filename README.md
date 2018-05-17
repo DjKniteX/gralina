@@ -14,6 +14,7 @@
     </p>
     </li>
     <li><em>May 9th, 2018</em>
+    <p>
         Second Revision of the World Map has begun. Close to finishing the layout. I will most likely start on the database for the game this weekend. Will work on a Vue Website for the whole Trilogy.</li></ul>
     </p>
 </p>
