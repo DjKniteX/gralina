@@ -7,6 +7,12 @@
     <h3>News</h3>
     <p>
     <ul>
+        <li>
+    <em>May 23rd, 2018</em>
+    <p>
+    My trip to Arkansas starts Friday and I will be driving back on Saturday. I will be driving and hoping I will get back to LA by Monday night. I will continue to write down ideas and work on the database when I can but Devloping does suck using one monitor. My new work station will also be here this summer so I'll dumping most of my free time on this project. New projected demo date will be this Winter and the Full-Release, hopefully Summer 2019.
+    </p>
+    </li>
     <li>
     <em>May 17th, 2018</em>
     <p>
@@ -28,6 +34,9 @@
     <li>
         <em>May 2018</em> - 1st Stage Development began</li>
     <li>
-        <em>Winter 2018</em> - Projected Release Date
+        <em>Winter 2018</em> - Projected Release Date for Demo
+    </li>
+        <li>
+        <em>Summer 2019</em> - Projected Release Date for 1.0
     </li>
 </ul>
