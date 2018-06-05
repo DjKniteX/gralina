@@ -8,6 +8,12 @@
     <p>
     <ul>
         <li>
+    <em>June 4th, 2018</em>
+    <p>
+    What's up everyone. I just returned to LA last week on Memorial after like a 24+ hour drive. It was long but at least I'm home for now. I got my old computer stuff but I have yet set them up. I'm currently looking for a new apartment and the game is put on hold for a bit. I will be making adjustments to the game story and will continue to read up on tutorials during my free time at work. Hopefully I will be able to show you guys some work soon.
+    </p>
+    </li>
+        <li>
     <em>May 23rd, 2018</em>
     <p>
     My trip to Arkansas starts Friday and I will be driving back on Saturday. I will be driving and hoping I will get back to LA by Monday night. I will continue to write down ideas and work on the database when I can but Devloping does suck using one monitor. My new work station will also be here this summer so I'll dumping most of my free time on this project. New projected demo date will be this Winter and the Full-Release, hopefully Summer 2019.
