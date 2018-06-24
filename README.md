@@ -7,6 +7,12 @@
     <h3>News</h3>
     <p>
     <ul>
+            <li>
+    <em>June 24th, 2018</em>
+    <p>
+    A new patch has been released for RPG Maker MV and the end of the month is almost over. I haven't been working much on it but I'm going over the story again to make sure there are no inconsistency in the universe. I'm assuming the gameplay will be under 10 hours and possibily have end-game content. The story is simple but it'll be interesting enough. Starting full devlopment on it starting in July.
+    </p>
+    </li>
         <li>
     <em>June 4th, 2018</em>
     <p>
