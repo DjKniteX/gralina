@@ -7,6 +7,12 @@
     <h3>News</h3>
     <p>
     <ul>
+                <li>
+    <em>August 10, 2019</em>
+    <p>
+    I have started a new team to help me work on projects but our first project will be a puzzle horror game with the prequel being developed in ren'py. This project will be on hold until then and please visit https://facebook.com/skynitedigital for new updates on our projects!
+    </p>
+    </li>
             <li>
     <em>June 24th, 2018</em>
     <p>
