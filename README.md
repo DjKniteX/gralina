@@ -7,6 +7,13 @@
     <h3>News</h3>
     <p>
     <ul>
+                    <li>
+    <em>December 25, 2018</em>
+    <p>
+    I am back with the development of Gralina. I know I am 8 months behind on dev time but I'm back and at it. I haven't found any original art for our Visual Novel game so we decided to scrap it in the mean time. I began work on Gralina again and going towards a milestone/task schedule where I would work on an area or database structure for one day. I started the Academy and finished the bare bones of it and now I will work on the outside/training area next weekend. Here is the screenshot to show progress. I know I won't make it on time for the schedule I listed below but at least it's going!
+    </p>
+    <img src="img/gralina1.png" style="width: 250px, height: 250px"> 
+    </li>
                 <li>
     <em>August 10, 2018</em>
     <p>
