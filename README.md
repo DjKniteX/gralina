@@ -7,6 +7,16 @@
     <h3>News</h3>
     <p>
     <ul>
+                        <li>
+    <em>December 30, 2018</em>
+    <p>
+        I made some new developments today. I worked on finishing up the first Village and did a base of the World Map. I have gotten some of the Lore written and because of how the game is to be of a trilogy titled "The Gaiuss Trilogy", I will re-work Cartuga slightly to make sure the transition from the first game to the second game makes sense. I was able to get Switches to work which will create events in the game that would flow like it's an actual RPG. I'm aiming the game to be around 6-10 hours of gameplay where the strong focus of end-game will be in the 3rd game which is TBD. I'll be doing some work only on this game when I have time but with the New Years coming up and I have some free time. I will start working on finishing the events in the first village to carry the main character over to the Castle to see the Chancellor.
+        <p>
+        Attached below is preview of the first village (not including the Academy on top of the hill)
+        </p>
+    </p>
+    <img src="img/gralina2.png" style="width: 250px, height: 250px"> 
+    </li>
                     <li>
     <em>December 25, 2018</em>
     <p>
