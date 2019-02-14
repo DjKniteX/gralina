@@ -7,6 +7,13 @@
     <h3>News</h3>
     <p>
     <ul>
+                            <li>
+    <em>February 13, 2019</em>
+    <p>
+        Hey guys, I have been too focused on looking for a new job and balancing my work-life schedule so I haven't been able to get to working on the game. This is just a small update that even though it's been 2 months I have not forgotten about it but this Sunday I will get back on it. I am looking to form a small team to help me with mapping and database but as of right now, it's just me. In the mean time, wait for some new updates that I'm going to drop this Sunday!. Going to work on the castle now
+        <p>Also DQXI-S has been announced for the Fall, I might not have a life then.</p>
+    </p>
+    </li>
                         <li>
     <em>December 30, 2018</em>
     <p>
