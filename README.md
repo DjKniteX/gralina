@@ -7,6 +7,14 @@
     <h3>News</h3>
     <p>
     <ul>
+     <li>
+    <em>March 27, 2019</em>
+    <p>
+        Made a deserted village today for part of the quest to find out the history of the kingdom as well a a secret that I won't tell! I lived streamed me working on the RPG one day and had some help with some of the viewers. Attached is a screen shot and I hope you guys are still following the progress. Slowly but surely!
+    </p>
+    <img src="img/gralina3.png" style="width: 250px, height: 250px">
+    </li>
+                            <li>
                            <li>
     <em>March 16, 2019</em>
     <p>
