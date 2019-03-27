@@ -14,7 +14,6 @@
     </p>
     <img src="img/gralina3.png" style="width: 250px, height: 250px">
     </li>
-                            <li>
                            <li>
     <em>March 16, 2019</em>
     <p>
