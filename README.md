@@ -7,6 +7,12 @@
     <h3>News</h3>
     <p>
     <ul>
+         <li>
+    <em>May 9, 2019</em>
+    <p> It's dead.
+    I forgot to make a back-up before I reformatted my PC. RIP
+    </p>
+    </li>
      <li>
     <em>March 27, 2019</em>
     <p>
