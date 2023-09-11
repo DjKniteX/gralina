@@ -1,12 +1,19 @@
-<h1>Gralina - The Second Chapter</h1>
+<h1>Gralina - Free 2D ORPG</h1>
 <h3>Scernario Designer/Writer &amp; Developer - Nikki Xaysanasy</h3>
-<h3>Engine: RPG Maker MV</h3>
-<img src="img/rpgmaker.jpg">
+<h3>Publisher: <a href="https://mockinbird.dev">mockinbird.dev</a>
+<h3>Engine: Intersect Engine</h3>
+<img src="img/logo.png">
 
 <p>
     <h3>News</h3>
     <p>
     <ul>
+             <li>
+    <em>September 11, 2023 </em>
+    <p> Not dead.
+    We are now using Intersect Engine to turn this game into an ORPG. (Which was the original idea for the last game in the trilogy). More info soon!
+    </p>
+    </li>
          <li>
     <em>May 9, 2019</em>
     <p> It's dead.
