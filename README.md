@@ -1,4 +1,4 @@
-<em>-In Dedication to Robin Periss</em>
+<em>- In Dedication to Robin Perris - </em>
 <h1>Gralina - Free 2D ORPG</h1>
 <h3>Scernario Designer/Writer &amp; Developer - Nikki Xaysanasy</h3>
 <h3>Publisher: <a href="https://mockinbird.dev">mockinbird.dev</a>
